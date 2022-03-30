@@ -7,3 +7,4 @@ L’association IT-JUNIOR est née à l'été de l’année 2021, vise à dispen
 
 Liens utiles :
 - Site Internet • https://it-junior.fr/
+- Numéro d'AS   • https://bgp.tools/as/211484
