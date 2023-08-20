@@ -2,7 +2,7 @@
 
 <img src="https://www.it-junior.fr/cgi/img/logo.png" align="right"/>
 
-L’association IT-JUNIOR est née à l'été de l’année 2021, vise à dispenser des cours pratiques aux étudiants, à travers des cas d’entreprise. Elle permet également les placements de stagiaires et alternants. Pour cela elle recherche régulièrement des dons de matériel pour les exercices. Nous avons déjà fournis des Machine Virtuelles alias VPS à des jeunes étudiants.
+Votre réussite, notre priorité. Chez IT JUNIOR, nous plaçons nos étudiants au cœur de toutes nos actions. Chaque décision que nous prenons, chaque programme que nous proposons, vise à créer un environnement propice à l’apprentissage, à l’épanouissement et à l’atteinte de vos objectifs
 <br>
 
 Liens utiles :
