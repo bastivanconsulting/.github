@@ -1,6 +1,6 @@
 ### Bienvenue chez SynhDigital !
 
-<img src="https://www.it-junior.fr/cgi/img/logo.png" align="right"/>
+<img src="https://www.it-junior.fr/cgi/img/logo.png](https://github.com/IT-JUNIOR/.github/blob/main/profile/444.png?raw=true" align="right"/>
 
 Une association à but non lucratif dédiée à l'éducation numérique et à l'hébergement cloud pour les entreprises. Notre mission est de rendre l'informatique accessible à tous, des débutants aux professionnels, tout en aidant les entreprises à prospérer dans l'ère numérique.
 <br>
