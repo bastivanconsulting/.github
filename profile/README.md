@@ -1,8 +1,8 @@
-### Bienvenue sur IT-JUNIOR !
+### Bienvenue chez SynhDigital !
 
 <img src="https://www.it-junior.fr/cgi/img/logo.png" align="right"/>
 
-Bienvenue chez SynhDigital, une association à but non lucratif dédiée à l'éducation numérique et à l'hébergement cloud pour les entreprises. Notre mission est de rendre l'informatique accessible à tous, des débutants aux professionnels, tout en aidant les entreprises à prospérer dans l'ère numérique.
+Une association à but non lucratif dédiée à l'éducation numérique et à l'hébergement cloud pour les entreprises. Notre mission est de rendre l'informatique accessible à tous, des débutants aux professionnels, tout en aidant les entreprises à prospérer dans l'ère numérique.
 <br>
 Chez SynhDigital, nous croyons que l'informatique est la clé pour prospérer dans le monde moderne. Nous avons créé une bibliothèque de vidéos éducatives courtes et informatives diffusées sur TikTok pour simplifier des concepts informatiques parfois complexes. Nos vidéos sont conçues pour vous aider à acquérir des compétences de base en informatique, à renforcer vos connaissances et à explorer des domaines variés de l'informatique.
 <br>
