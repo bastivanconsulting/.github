@@ -8,8 +8,6 @@ Chez SynhDigital, nous croyons que l'informatique est la clé pour prospérer da
 <br>
 En plus de nos activités éducatives, SynhDigital propose des solutions d'hébergement cloud pour les entreprises. Notre infrastructure robuste et sécurisée est conçue pour répondre aux besoins informatiques des entreprises de toutes tailles. Nous offrons un espace fiable pour stocker et gérer vos données, applications et ressources informatiques, vous permettant de vous concentrer sur le développement de votre entreprise.
 <br>
-Nous utilisons TikTok comme plateforme pour nos vidéos éducatives parce que c'est un espace où les connaissances et les compétences peuvent être partagées de manière engageante. Nos vidéos sont conçues pour s'adapter au format court et dynamique de TikTok, offrant des informations pertinentes et utiles de manière accessible à tous.
-<br>
 
 Liens utiles :
 - Site Internet • https://www.synhdigital.fr/
