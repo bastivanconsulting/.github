@@ -7,4 +7,3 @@ Une association à but non lucratif dédiée à l'éducation numérique et à l'
 
 Liens utiles :
 - Site Internet • https://www.synhdigital.fr/
-- Numéro d'AS   • https://bgp.tools/as/211484
