@@ -1,9 +1,12 @@
-### Bienvenue chez SynhDigital !
+### Bienvenue chez Bastivan Consulting !
 
-<img src="https://avatars.githubusercontent.com/u/89454668?s=400&u=61e9bc6a2d8fb8dbb8e8f52c9d0a84e413dfb795&v=4" width="250" height="250" align="right"/>
+<img src="https://www.bastivan.com/Logo.png" width="250" height="250" align="right"/>
+Bastivan Consulting est une société spécialisée en cybersécurité, infogérance et hébergement cloud pour les entreprises. Notre mission est de fournir des solutions sur mesure pour garantir la sécurité, la performance et la croissance de votre infrastructure informatique. Chez Bastivan Consulting, nous croyons que l'informatique joue un rôle crucial dans la réussite des entreprises modernes.
 
-Une association à but non lucratif dédiée à l'éducation numérique et à l'hébergement cloud pour les entreprises. Notre mission est de rendre l'informatique accessible à tous, des débutants aux professionnels, tout en aidant les entreprises à prospérer dans l'ère numérique. Chez SynhDigital, nous croyons que l'informatique est la clé pour prospérer dans le monde moderne. Nous avons créé une bibliothèque de vidéos éducatives courtes et informatives diffusées sur TikTok pour simplifier des concepts informatiques parfois complexes. Nos vidéos sont conçues pour vous aider à acquérir des compétences de base en informatique, à renforcer vos connaissances et à explorer des domaines variés de l'informatique. En plus de nos activités éducatives, SynhDigital propose des solutions d'hébergement cloud pour les entreprises. Notre infrastructure robuste et sécurisée est conçue pour répondre aux besoins informatiques des entreprises de toutes tailles. Nous offrons un espace fiable pour stocker et gérer vos données, applications et ressources informatiques, vous permettant de vous concentrer sur le développement de votre entreprise.
-<br>
+Nous aidons les entreprises à naviguer dans l'ère numérique en offrant des services personnalisés qui s’adaptent aux besoins de chaque client. De la gestion de la sécurité des systèmes à l’optimisation de votre infrastructure cloud, nous sommes là pour vous accompagner à chaque étape.
+
+Nos solutions d'hébergement cloud sont conçues pour offrir une infrastructure robuste, sécurisée et performante, adaptée à vos besoins spécifiques. Nous vous fournissons un espace fiable pour gérer vos données, applications et ressources informatiques, afin que vous puissiez vous concentrer sur le développement de votre activité.
 
 Liens utiles :
-- Site Internet • https://www.synhdigital.fr/
+
+Site Internet • https://www.bastivan.com
