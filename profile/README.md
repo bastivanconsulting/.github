@@ -1,9 +1,9 @@
 <div align="center">
-  <img src="https://www.bastivan.consulting/assets/img/logo.png" alt="Bastivan Consulting Logo" width="350"/>
+  <img src="https://www.bastivan.consulting/assets/img/logo.png" alt="Bastivan Consulting Logo" width="200"/>
   <h1>Bastivan Consulting</h1>
   <h3>L'Excellence Numérique</h3>
   <p>
-    <b>Infogérance • Opérateur Télécom • Hébergeur Cloud</b>
+    <b>Infogérance • Opérateur Télécom • Hébergeur Cloud • Développement</b>
   </p>
 
   <p>
@@ -26,7 +26,7 @@
 
 ### 👋 À propos de nous
 
-**Bastivan Consulting** est votre partenaire de confiance pour la transformation numérique. Basés à Beauvais (Hauts-de-France), nous accompagnons les entreprises dans la gestion, la sécurisation et l'optimisation de leur système d'information.
+**Bastivan Consulting** est votre partenaire de confiance pour la transformation numérique. Basés à Beauvais (Hauts-de-France), nous accompagnons les entreprises dans la gestion, la sécurisation et l'optimisation de leur système d'information, ainsi que dans le développement de solutions sur mesure.
 
 Notre mission est de simplifier votre infrastructure informatique tout en garantissant sa robustesse et sa sécurité. Nous croyons que la technologie doit être un levier de croissance et non une source de complexité.
 
@@ -36,36 +36,52 @@ Notre mission est de simplifier votre infrastructure informatique tout en garant
 
 <table>
   <tr>
-    <td align="center" width="33%">
+    <td align="center" width="25%">
       <h3>🛠️ Infogérance</h3>
-      <p>Gestion proactive et complète de votre parc informatique. Maintenance préventive, support utilisateur et sécurité des postes de travail.</p>
+      <p>Gestion proactive et complète de votre parc informatique. Maintenance, support et sécurité.</p>
     </td>
-    <td align="center" width="33%">
-      <h3>📞 Opérateur Télécom</h3>
-      <p>Solutions de téléphonie d'entreprise (VoIP) et accès internet haut débit (Fibre Optique) pour les professionnels.</p>
+    <td align="center" width="25%">
+      <h3>📞 Télécom</h3>
+      <p>Solutions de téléphonie (VoIP) et internet haut débit (Fibre Optique) pour les pros.</p>
     </td>
-    <td align="center" width="33%">
-      <h3>☁️ Hébergeur Cloud</h3>
-      <p>Hébergement web et applicatif sécurisé sur nos infrastructures Cloud (Public et Privé) hébergées en France.</p>
+    <td align="center" width="25%">
+      <h3>☁️ Cloud</h3>
+      <p>Hébergement web et applicatif sécurisé sur nos infrastructures en France.</p>
+    </td>
+    <td align="center" width="25%">
+      <h3>💻 Développement</h3>
+      <p>Création d'applications web et solutions logicielles sur mesure.</p>
     </td>
   </tr>
 </table>
 
 ---
 
-### 💻 Technologies & Partenaires
+### 💻 Expertise Technique
 
-Nous nous appuyons sur un écosystème technologique robuste et des partenaires de confiance :
+Nous maîtrisons un large spectre technologique pour répondre à tous vos besoins, de l'infrastructure au développement.
 
-<p align="center">
-  <img src="https://img.shields.io/badge/AlmaLinux-OS-blue?style=flat-square&logo=linux" alt="AlmaLinux">
-  <img src="https://img.shields.io/badge/Plesk-Hosting-blue?style=flat-square&logo=plesk" alt="Plesk">
-  <img src="https://img.shields.io/badge/MikroTik-Network-red?style=flat-square" alt="MikroTik">
-  <img src="https://img.shields.io/badge/pfSense-Firewall-blue?style=flat-square" alt="pfSense">
-  <img src="https://img.shields.io/badge/Arista-Networks-blue?style=flat-square" alt="Arista">
-  <img src="https://img.shields.io/badge/OVHcloud-Partner-blue?style=flat-square&logo=ovh" alt="OVHcloud">
-  <img src="https://img.shields.io/badge/Netwo-Telecom-orange?style=flat-square" alt="Netwo">
-</p>
+<div align="center">
+
+  #### 🛠️ Infrastructure & Cloud
+  <p>
+    <img src="https://img.shields.io/badge/AlmaLinux-OS-blue?style=flat-square&logo=linux" alt="AlmaLinux">
+    <img src="https://img.shields.io/badge/Plesk-Hosting-blue?style=flat-square&logo=plesk" alt="Plesk">
+    <img src="https://img.shields.io/badge/MikroTik-Network-red?style=flat-square" alt="MikroTik">
+    <img src="https://img.shields.io/badge/pfSense-Firewall-blue?style=flat-square" alt="pfSense">
+    <img src="https://img.shields.io/badge/Arista-Networks-blue?style=flat-square" alt="Arista">
+    <img src="https://img.shields.io/badge/OVHcloud-Partner-blue?style=flat-square&logo=ovh" alt="OVHcloud">
+    <img src="https://img.shields.io/badge/Netwo-Telecom-orange?style=flat-square" alt="Netwo">
+  </p>
+
+  #### 👨‍💻 Développement
+  <p>
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=php,python,nodejs,mysql,docker,git&perline=6" alt="My Skills" />
+    </a>
+  </p>
+
+</div>
 
 ---
 
