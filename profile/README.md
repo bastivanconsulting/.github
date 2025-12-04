@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://www.bastivan.consulting/assets/img/logo.png" alt="Bastivan Consulting Logo" width="500"/>
+  <img src="https://www.bastivan.consulting/assets/img/logo.png" alt="Bastivan Consulting Logo" width="350"/>
   <h1>Bastivan Consulting</h1>
   <h3>L'Excellence Numérique</h3>
   <p>
