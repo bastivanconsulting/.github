@@ -1,7 +1,10 @@
 <div align="center">
 
 <a href="https://www.bastivan.consulting">
-  <img src="assets/logo-bastivan.png" alt="Bastivan Consulting" width="420"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/logo-bastivan-dark.svg">
+    <img src="assets/logo-bastivan.png" alt="Bastivan Consulting" width="420"/>
+  </picture>
 </a>
 
 ### Votre informatique, un souci en moins.
